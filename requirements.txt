@@ -1,0 +1,5 @@
+geopy==2.3.0
+pandas==1.5.1
+psycopg2==2.9.5
+requests==2.28.1
+toloka_kit==0.1.23
